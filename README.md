@@ -12,14 +12,18 @@ Java Development Kit (JDK) installed on your computer
 Text Editor or IDE (such as VS Code, IntelliJ IDEA, Eclipse, or Notepad++)
 
 ## Step-by-Step Instructions
-Step 1: Download and Set Up the Files
+1: Download and Set Up the Files
 Create a new folder called "petpal" on your computer
 
-Save all three Java files in the "petpal" folder:
+2: Save all three Java files in the "petpal" folder:
 
-MyPetPalDriver.java
+  MyPetPalDriver.java
+  
+  CatClass.java
+  
+  DogClass.java
 
-CatClass.java
+3: Open in IDE
 
-DogClass.java
+
 
