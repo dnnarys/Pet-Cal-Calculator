@@ -1,4 +1,4 @@
-package program;
+package petpal;
 import java.util.Scanner;
 
 public class  DogClass {
