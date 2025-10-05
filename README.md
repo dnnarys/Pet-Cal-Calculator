@@ -25,5 +25,13 @@ Create a new folder called "petpal" on your computer
 
 3: Open in IDE
 
+ 4: Get Your Results
+The program will show you:
+
+✅ Daily calorie needs for your pet
+
+✅ Feeding schedule (when to feed)
+
+✅ Exact calories per meal
 
 
